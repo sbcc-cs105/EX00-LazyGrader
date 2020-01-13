@@ -39,8 +39,7 @@ by a login similar to the following screenshot:
 
 Your username is your MyVCCCD email address. If you don't know it, log into the VCCCD website and
 find it. Your password is your 900 student number, without the 900. This number starts with 900 and is 9 digits long.
-As part of this assignment you will change this to a password of your choosing. For now, login using
-this default password.
+For now, login using this default password.
 
 Once you've logged in you should go to the home screen with a list of all the courses you are 
 enrolled in with me. That screen should look something like the following screenshot:
