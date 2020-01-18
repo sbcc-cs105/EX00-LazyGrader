@@ -32,12 +32,12 @@ information it needs to work correctly.
 
 Everybody has already been given an account with a default password.
 In order to start this assignment, go to 
-[http://www.vc-computerscience.club:8080](http://www.vc-computerscience.club:8080){:target="_blank"}. There you should be greeted
+[http://www.vc-computerscience.club:8081](http://www.vc-computerscience.club:8081){:target="_blank"}. There you should be greeted
 by a login similar to the following screenshot:
 
 ![Image of login screen](login.png)
 
-Your username is your MyVCCCD email address. If you don't know it, log into the VCCCD website and
+Your username is your pipeline email address. If you don't know it, log into the pipeline website and
 find it. Your password is your 900 student number, without the 900. This number starts with 900 and is 9 digits long.
 For now, login using this default password.
 
@@ -88,7 +88,7 @@ Be aware: all communications in this application are recorded and logged. Please
 each other. I have never had a problem with students misbehaving on this application, but if they
 do, I have no problem turning over the logs to the proper entities investigating misconduct.
 
-To create your account for this application, go to [https://vc-csv40-spring2020.slack.com](https://vc-csv40-spring2020.slack.com){:target="_blank"}. Use your my.vcccd.edu email addres (or vcccd.edu, if you have one) to create your account.
+To create your account for this application, go to [https://sbcc-cs105-spring2020.slack.com](https://sbcc-cs105-spring2020.slack.com){:target="_blank"}. Use your pipeline.sbcc.edu email addres (or sbcc.edu, if you have one) to create your account.
 If you use an email address with another domain, such as @gmail.com, you will not be able to register for your
 Slack account. Choose a display name, something easily recognizable as you, and record that in LazyGrader where
 it asks for your Slack ID.
